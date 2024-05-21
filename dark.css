@@ -1,3 +1,7 @@
+span {
+    font-family: monospace;
+    font-size: x-large;
+}
 body {
     background-color: #0b1722;
 }
@@ -10,16 +14,10 @@ h1, h2, h3 {
 p, li {
     color: aliceblue;
     font-family: monospace;
-    font-size: 20px;
+    font-size: 22px;
     text-align: center;
 }
 a {
     color: cornflowerblue;
     font-family: monospace;
-}
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 85%;
 }

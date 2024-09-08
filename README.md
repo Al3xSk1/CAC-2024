@@ -1,5 +1,9 @@
 # Congressional App Challenge 2024
 
+## Note
+
+I never submitted this to the CAC as it did not fit their requirements and it did not go anywhere. This repository is now Archived.
+
 ## The Idea
 
 Having a hard time in high school is expected, you are not alone. Being a high school student myself, it is really hard to find oportunities in STEM. I signed up for LinkedIn on my 16th birthday (the minimum age for LinkedIn), and had a hard time finding opportunities in STEM around me.
